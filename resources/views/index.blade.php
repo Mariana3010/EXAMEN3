@@ -144,19 +144,6 @@
 								</article>
 							</section>
 							<br>
-								<b><font size="8">API</font></b>
-						
-							<section class="tiles">
-								<article class="style1">
-									<span class="image">
-										<img src="/images/pic01.jpg" alt="" />
-								</span>
-								<a href="/verPublicacion/reconocer_conceptos_presentacion">
-									<h4></h4>
-									<div class="content">
-									</div>
-								</a>
-							</article>
 							</section>
 						</div>
 					</div>
